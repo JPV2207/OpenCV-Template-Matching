@@ -70,13 +70,13 @@ pip install opencv-python numpy
   ## Example Demonstration
 
 ### 🔹 Original Image
-![Original Image](test-image8.jpg)
+![Image](https://github.com/user-attachments/assets/89e96695-ba38-4c88-bb36-584fa3d0ec68)
 
 ### 🔹 Template Image
-![Template Image](template-image8.1.jpg)
+![Image](https://github.com/user-attachments/assets/0ca220d3-90f2-410f-84b6-7a026c76d9bf)
 
 ### 🔹 Matched Result (with rectangle)
-![Matched Result](detected_test-image8_20250506_011548.png)
+![Image](https://github.com/user-attachments/assets/dddf3e2e-fe47-4b1a-b986-88a528251fbc)
 
 
 ## Example Output
