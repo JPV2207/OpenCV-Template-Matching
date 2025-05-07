@@ -66,6 +66,19 @@ pip install opencv-python numpy
 * **Step 5: Save the Result**
   If a match is found and verified, it draws a rectangle around the detected object and saves the result image.
 
+
+  ## Example Demonstration
+
+### 🔹 Original Image
+![Original Image](test-image8.jpg)
+
+### 🔹 Template Image
+![Template Image](template-image8.1.jpg)
+
+### 🔹 Matched Result (with rectangle)
+![Matched Result](detected_test-image8_20250506_011548.png)
+
+
 ## Example Output
 
 ```bash
